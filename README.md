@@ -22,4 +22,4 @@ We have also implementing other functions to handle everything that could happen
 
 
 ## Contributions:
-This project was a collage team projects and all team members are listed in the credits section in the end of the game.
+This project was a collage teamwork project and all team members are listed in the credits section in the end of the game.
