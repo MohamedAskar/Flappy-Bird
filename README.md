@@ -21,5 +21,5 @@ Our code consist of three main classes:
 We have also implementing other functions to handle everything that could happen in the game such as rendering score, pipes, credits and sound effects, handling bird movement, testing collision, and other helper functions also.
 
 
-## contributions:
+## Contributions:
 This project was a collage team projects and all team members are listed in the credits section in the end of the game.
