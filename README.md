@@ -15,3 +15,6 @@ With the help of [BEKA Engine](https://github.com/MwEg777/BEKA-Engine). We were 
   - [`FlappyImages`](https://github.com/MohamedAskar/Flappy-Bird/blob/1d7da5b5711e48549ee51b245efbff96bc965b1e/main.py#L45) class is used for loading game images into memory for later use.
   
   - [`ImageRenderer`](https://github.com/MohamedAskar/Flappy-Bird/blob/1d7da5b5711e48549ee51b245efbff96bc965b1e/main.py#L73) class is used for rendering the loaded images to the screen given the selected image coordinates
+  
+  
+We have also implementing other functions to handle everything that could happen in the game such as rendering score, pipes, credits and sound effects, handling bird movement, testing collision, and other helper functions also.
