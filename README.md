@@ -10,6 +10,7 @@ With the help of [BEKA Engine](https://github.com/MwEg777/BEKA-Engine). We were 
 **Note: PyGame is required to load images and sounds.**
 
 ## Code:
+Our code consist of three main classes:
   - [`GameObject`](https://github.com/MohamedAskar/Flappy-Bird/blob/1d7da5b5711e48549ee51b245efbff96bc965b1e/main.py#L11) class is used for converting any thing into object we can get its position and apply transformation on the object
 
   - [`FlappyImages`](https://github.com/MohamedAskar/Flappy-Bird/blob/1d7da5b5711e48549ee51b245efbff96bc965b1e/main.py#L45) class is used for loading game images into memory for later use.
